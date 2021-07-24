@@ -26,11 +26,11 @@ The plot above for the 1st 4 months of 2019 shows that Weekly Revenue is consist
 
 ### 2.  Over Saturation of Urban Drivers
 
-  * With an Average Fare per Driver of $16.57 it appears there is a surplus of Urban drivers.  It may be time to ease off on new driver bonuses, and recruitment expenses.    
+  * With an Average Fare per Driver of $16.57 it appears there is a [surplus of Urban drivers](https://github.com/ethiry99/HW5_PyBer_Analysis/blob/main/analysis/driver_surplus.png).  It may be time to ease off on new driver bonuses, and recruitment expenses.    
 
 ### 3.  Suburban Opportunity
  
-  * The suburbs generate just over 26% more revenue per fare.  There are also less early adapters to ride share in the Suburbs than Urban areas.  One opputuniy to market to Subarban customers is highlighting that there is no need to find parking or parallel park.  In my experience since there isn't much need to parallel park in the suburbs they are out of practice and get nervous when they have to do it! 
+  * The suburbs generate just over [26% more revenue per fare](https://github.com/ethiry99/HW5_PyBer_Analysis/blob/main/analysis/suburban_opportunites.png).  There are also less early adapters to ride share in the Suburbs than Urban areas.  One opputuniy to market to Subarban customers is highlighting that there is no need to find parking or parallel park.  In my experience since there isn't much need to parallel park in the suburbs they are out of practice and get nervous when they have to do it! 
 
 
 
