@@ -8,7 +8,7 @@ This analysis is be perfromed on PyBer data to determine difference in markets b
 
 * ### Summary Table of Data 
 
-![](https://github.com/ethiry99/HW5_PyBer_Analysis/blob/main/Resources/Images/Summary%20Table%20of%20Data.png)
+![]()
 
 In the summary table above, it can be seen that the Average Fare and the Average Fare per Driver are both highest for Rural cities.  It is also true that there are far more Urban rides, drivers and fare revenue.  In all categories Suburban data falls between Rural and Urban information.
 
@@ -22,7 +22,7 @@ The plot above for the 1st 4 months of 2019 shows that Weekly Revenue is consist
 
 ### 1.  Potential for Rural Growth
 
-  * The number are fares for rural area is very low.  Some advertizing in these area is not only very affordable it also can have a large impact with the $34.62 mean fare. 
+  * The number are fares for rural area is very low.  Some advertizing in these area is not only very affordable it also can have a large impact with the [$34.62 mean fare](https://github.com/ethiry99/HW5_PyBer_Analysis/blob/main/analysis/rural_mean_fare.png). 
 
 ### 2.  Over Saturation of Urban Drivers
 
