@@ -8,7 +8,7 @@ This analysis is be perfromed on PyBer data to determine difference in markets b
 
 * ### Summary Table of Data 
 
-![]()
+![](https://github.com/ethiry99/HW5_PyBer_Analysis/blob/main/analysis/Summary%20Table%20of%20Data.png)
 
 In the summary table above, it can be seen that the Average Fare and the Average Fare per Driver are both highest for Rural cities.  It is also true that there are far more Urban rides, drivers and fare revenue.  In all categories Suburban data falls between Rural and Urban information.
 
