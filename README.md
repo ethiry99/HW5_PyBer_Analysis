@@ -20,15 +20,17 @@ The plot above for the 1st 4 months of 2019 shows that Weekly Revenue is consist
 
 ## Summary
 
-1. ### Potential for Rural Growth
+### 1.  Potential for Rural Growth
 
   * The number are fares for rural area is very low.  Some advertizing in these area is not only very affordable it also can have a large impact with the $34.62 mean fare. 
 
-2. ### Over Saturation of Urban Drivers
+### 2.  Over Saturation of Urban Drivers
 
   * With an Average Fare per Driver of $16.57 it appears there is a surplus of Urban drivers.  It may be time to ease off on new driver bonuses, and recruitment expenses.    
 
-3. 
+### 3.  Suburban Opportunity
+ 
+  * The suburbs generate just over 26% more revenue per fare.  There are also less early adapters to ride share in the Suburbs than Urban areas.  One opputuniy to market to Subarban customers is highlighting that there is no need to find parking or parallel park.  In my experience since there isn't much need to parallel park in the suburbs they are out of practice and get nervous when they have to do it! 
 
 
 
