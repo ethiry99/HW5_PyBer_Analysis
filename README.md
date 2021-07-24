@@ -6,6 +6,9 @@ This analysis is be perfromed on PyBer data to determine difference in markets b
 
 ## Results
 
-* ### [Summary Table of Data](https://user-images.githubusercontent.com/85372094/126853416-73ec6606-6510-41f1-8af4-aecd9435e634.png)
-* 
+* ### Summary Table of Data 
+
+
+
+ 
  
