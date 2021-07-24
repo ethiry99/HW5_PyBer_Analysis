@@ -18,7 +18,13 @@ In the summary table above, it can be seen that the Average Fare and the Average
 
 The plot above for the 1st 4 months of 2019 shows that Weekly Revenue is consistently higher than Suburban and Rural revenue.  Again Suburban revenue is between Rural and Urban total fares collected.
 
+## Summary
 
+1. ### Potential for Rural Growth
+
+   * The number are fares for rural area is very low.  Some advertizing in these area is not only very affordable it also can have a large impact with the $34.62 mean fare. 
+
+2. 
 
 
  
