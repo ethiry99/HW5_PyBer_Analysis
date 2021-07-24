@@ -22,9 +22,16 @@ The plot above for the 1st 4 months of 2019 shows that Weekly Revenue is consist
 
 1. ### Potential for Rural Growth
 
-   * The number are fares for rural area is very low.  Some advertizing in these area is not only very affordable it also can have a large impact with the $34.62 mean fare. 
+  * The number are fares for rural area is very low.  Some advertizing in these area is not only very affordable it also can have a large impact with the $34.62 mean fare. 
 
-2. 
+2. ### Over Saturation of Urban Drivers
+
+  * With an Average Fare per Driver of $16.57 it appears there is a surplus of Urban drivers.  It may be time to ease off on new driver bonuses, and recruitment expenses.    
+
+3. 
+
+
+
 
 
  
